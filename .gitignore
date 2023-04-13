@@ -23,3 +23,6 @@
 /frontend/yarn-error.log*
 
 .vscode
+
+#config file
+*/apsettings.*.json
